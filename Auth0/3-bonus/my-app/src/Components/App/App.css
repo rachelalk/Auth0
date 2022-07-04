@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #f45626;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-width: 100vw;
+
+}
+
+.App-header {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  width: 100vh;
+
+}
+
+.user-icon {
+  display: flex;
+  max-height: 15vh;
+  max-width: 15vw;
+  margin: auto;
+  padding: 10px;
+}
+
+.user-div {
+  display: flex;
+  flex-direction: column;
+  max-height: 20vh;
+}
+
+.fox-div {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+
+
+
+.button {
+  width: 10vw;
+  height: 30px;
+  margin: auto;
+  background-color: rgb(253, 126, 232)
+}
+
+.login-logout-container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
