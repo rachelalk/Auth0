@@ -14,4 +14,4 @@ Main learning points:
 
 We did manage to complete the tasks although it wasn't an easy day.
 
-I also created a basic, auth0 protected page which displays foxes via an API to authenticated users, you can view it <a href="https://fox-fix.netlify.app/">here</a></p> but be warned - it is very orange!
+I also created a basic, auth0 protected page which displays foxes via an API to authenticated users, you can view it <a href="https://fox-fix.netlify.app/">here</a> but be warned - it is very orange!
